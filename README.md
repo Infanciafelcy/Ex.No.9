@@ -137,11 +137,8 @@ Reference visual for the experiment
 
 Berglandschaft 4k Bilder – Kostenloser Download auf Magnific (ehemals Freepik)
 
-AI-Generated Visual
-
-Illustrative expected appearance
-
-Note: These are illustrative images, not actual generated video outputs.
+<img width="2559" height="1440" alt="image" src="https://github.com/user-attachments/assets/a673717f-2d64-4fb9-a1fc-b3719551b535" />
+<img width="740" height="493" alt="image" src="https://github.com/user-attachments/assets/64689e28-c983-4de3-8235-f4d58fe39a40" />
 
 ## 📝 RESULT
 
